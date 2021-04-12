@@ -5286,12 +5286,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel-fans/laravel-docker.git",
-                "reference": "1228954e2f8e6069904efcd2f6415bb89b8264f5"
+                "reference": "b7c15cc230ad081d29c5d65bf7b69b2b0c8e9842"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel-fans/laravel-docker/zipball/1228954e2f8e6069904efcd2f6415bb89b8264f5",
-                "reference": "1228954e2f8e6069904efcd2f6415bb89b8264f5",
+                "url": "https://api.github.com/repos/laravel-fans/laravel-docker/zipball/b7c15cc230ad081d29c5d65bf7b69b2b0c8e9842",
+                "reference": "b7c15cc230ad081d29c5d65bf7b69b2b0c8e9842",
                 "shasum": ""
             },
             "require": {
@@ -5328,7 +5328,7 @@
                 "issues": "https://github.com/laravel-fans/laravel-docker/issues",
                 "source": "https://github.com/laravel-fans/laravel-docker/tree/issue-20"
             },
-            "time": "2021-04-12T08:35:07+00:00"
+            "time": "2021-04-12T08:43:55+00:00"
         },
         {
             "name": "laravel/sail",
