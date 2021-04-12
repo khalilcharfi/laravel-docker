@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "d2426a4e71d648c1e95417e2649973ab",
+    "content-hash": "4a16c3c541bd99241cab1c21ce8e83ac",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -4900,16 +4900,16 @@
         },
         {
             "name": "facade/flare-client-php",
-            "version": "1.6.1",
+            "version": "1.7.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/facade/flare-client-php.git",
-                "reference": "f2b0969f2d9594704be74dbeb25b201570a98098"
+                "reference": "6bf380035890cb0a09b9628c491ae3866b858522"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/facade/flare-client-php/zipball/f2b0969f2d9594704be74dbeb25b201570a98098",
-                "reference": "f2b0969f2d9594704be74dbeb25b201570a98098",
+                "url": "https://api.github.com/repos/facade/flare-client-php/zipball/6bf380035890cb0a09b9628c491ae3866b858522",
+                "reference": "6bf380035890cb0a09b9628c491ae3866b858522",
                 "shasum": ""
             },
             "require": {
@@ -4953,7 +4953,7 @@
             ],
             "support": {
                 "issues": "https://github.com/facade/flare-client-php/issues",
-                "source": "https://github.com/facade/flare-client-php/tree/1.6.1"
+                "source": "https://github.com/facade/flare-client-php/tree/1.7.0"
             },
             "funding": [
                 {
@@ -4961,7 +4961,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2021-04-08T08:50:01+00:00"
+            "time": "2021-04-12T09:30:36+00:00"
         },
         {
             "name": "facade/ignition",
@@ -5279,56 +5279,6 @@
                 "source": "https://github.com/hamcrest/hamcrest-php/tree/v2.0.1"
             },
             "time": "2020-07-09T08:09:16+00:00"
-        },
-        {
-            "name": "laravel-fans/docker",
-            "version": "dev-issue-20-1",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/laravel-fans/laravel-docker.git",
-                "reference": "60a9191e3b26e8722f2f80c8dc2ee33055b0a9c2"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/laravel-fans/laravel-docker/zipball/60a9191e3b26e8722f2f80c8dc2ee33055b0a9c2",
-                "reference": "60a9191e3b26e8722f2f80c8dc2ee33055b0a9c2",
-                "shasum": ""
-            },
-            "require": {
-                "laravel/framework": ">=v5.5.50"
-            },
-            "require-dev": {
-                "orchestra/testbench": ">=v3.5.6"
-            },
-            "type": "library",
-            "extra": {
-                "laravel": {
-                    "providers": [
-                        "LaravelFans\\Docker\\DockerServiceProvider"
-                    ]
-                }
-            },
-            "autoload": {
-                "psr-4": {
-                    "LaravelFans\\Docker\\": "src"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "sinkcup",
-                    "email": "sinkcup@gmail.com"
-                }
-            ],
-            "description": "Full Laravel production environment for Docker",
-            "support": {
-                "issues": "https://github.com/laravel-fans/laravel-docker/issues",
-                "source": "https://github.com/laravel-fans/laravel-docker/tree/issue-20-1"
-            },
-            "time": "2021-04-12T09:22:13+00:00"
         },
         {
             "name": "laravel/sail",
@@ -7382,9 +7332,7 @@
     ],
     "aliases": [],
     "minimum-stability": "dev",
-    "stability-flags": {
-        "laravel-fans/docker": 20
-    },
+    "stability-flags": [],
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
