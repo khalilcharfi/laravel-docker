@@ -4354,7 +4354,7 @@
             "description": "Full Laravel production environment for Docker",
             "support": {
                 "issues": "https://github.com/laravel-fans/laravel-docker/issues",
-                "source": "https://github.com/laravel-fans/laravel-docker/tree/main"
+                "source": "https://github.com/laravel-fans/laravel-docker/tree/0.3.4"
             },
             "time": "2021-10-29T10:35:59+00:00"
         },
