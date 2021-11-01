@@ -4313,12 +4313,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel-fans/laravel-docker.git",
-                "reference": "75803f6cfda4102ad0e2a82f522a82b1e788a0a5"
+                "reference": "cc52368f50c7ccba42a70330adad9f697af76f20"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel-fans/laravel-docker/zipball/75803f6cfda4102ad0e2a82f522a82b1e788a0a5",
-                "reference": "75803f6cfda4102ad0e2a82f522a82b1e788a0a5",
+                "url": "https://api.github.com/repos/laravel-fans/laravel-docker/zipball/cc52368f50c7ccba42a70330adad9f697af76f20",
+                "reference": "cc52368f50c7ccba42a70330adad9f697af76f20",
                 "shasum": ""
             },
             "require": {
@@ -4354,9 +4354,9 @@
             "description": "Full Laravel production environment for Docker",
             "support": {
                 "issues": "https://github.com/laravel-fans/laravel-docker/issues",
-                "source": "https://github.com/laravel-fans/laravel-docker/tree/0.3.5"
+                "source": "https://github.com/laravel-fans/laravel-docker/tree/0.4.0"
             },
-            "time": "2021-11-01T14:27:23+00:00"
+            "time": "2021-11-01T15:06:13+00:00"
         },
         {
             "name": "mockery/mockery",
