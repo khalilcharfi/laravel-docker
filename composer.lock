@@ -5329,19 +5329,21 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel-fans/laravel-docker.git",
-                "reference": "0c8e93356b6c6fa782887a5105848b5007749d6c"
+                "reference": "8cdfb6f970e734fa608f256e8118577fd23024bb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel-fans/laravel-docker/zipball/0c8e93356b6c6fa782887a5105848b5007749d6c",
-                "reference": "0c8e93356b6c6fa782887a5105848b5007749d6c",
+                "url": "https://api.github.com/repos/laravel-fans/laravel-docker/zipball/8cdfb6f970e734fa608f256e8118577fd23024bb",
+                "reference": "8cdfb6f970e734fa608f256e8118577fd23024bb",
                 "shasum": ""
             },
             "require": {
                 "laravel/framework": ">=v5.5.50"
             },
             "require-dev": {
-                "orchestra/testbench": ">=v3.5.6"
+                "orchestra/testbench": ">=v3.5.6",
+                "phpmd/phpmd": "^2.11",
+                "squizlabs/php_codesniffer": "^3.6"
             },
             "default-branch": true,
             "type": "library",
@@ -5372,7 +5374,7 @@
                 "issues": "https://github.com/laravel-fans/laravel-docker/issues",
                 "source": "https://github.com/laravel-fans/laravel-docker/tree/main"
             },
-            "time": "2021-12-10T03:35:35+00:00"
+            "time": "2021-12-10T05:21:59+00:00"
         },
         {
             "name": "mockery/mockery",
